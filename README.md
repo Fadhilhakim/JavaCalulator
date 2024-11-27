@@ -15,3 +15,7 @@ A simple calculator application created using Java Swing, designed for basic ari
 - **Sign Toggle**: Change the number's sign using the `+/-` button.
 
 ---
+
+## Important!
+- **java version** : "17.0.12" 2024-07-16 LTS
+- **THIS IS A NETBEANS PROJECT**
